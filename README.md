@@ -96,10 +96,11 @@ p_2D <- plot_ly(as.data.frame(UKM_AFLDA_pop0.5$Z), x =UKM_AFLDA_pop0.5$Z[,1], y 
   layout(scene = list(xaxis = list(title = 'X 1'),
                       yaxis = list(title = 'X 2')))
 
-
-
-
 ```
-### Contact: qinxinghu@gmail.com
+### Citations
+Qin.X, Jia.,P. 2023. New machine learning method identifies subtle fine-scale genetic stratification in diverse populations. Submitted.
+
+#### Contact
+Email: qinxinghu@gmail.com
  
 
