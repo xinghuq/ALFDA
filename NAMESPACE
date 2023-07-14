@@ -1,0 +1,6 @@
+export(Af)
+export(pwDis)
+export(ALFDA)
+import(lfda)
+importFrom("stats", "dnorm")
+importFrom("utils", "combn")

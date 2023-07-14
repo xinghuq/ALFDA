@@ -1,0 +1,17 @@
+Package: ALFDA
+Version: 1.5.0
+Date: 2023-05-31
+Title: Affinity based Local Fisher Discriminant Analysis
+Description: This package Carrying out Affinity based Local Fisher Discriminant Analysis on genetic data and beyond. 
+Author: Xinghu Qin, Peilin Jia
+Maintainer: Xinghu Qin <qinxinghu@gmail.com>
+Depends: R (>= 3.0)
+License: GPL (>= 3)
+SystemRequirements: GNU make
+URL: https://github.com/xinghuq/ALFDA
+BugReports: https://github.com/xinghuq/ALFDA/issues
+Imports: lfda,MASS,rARPACK
+VignetteBuilder: knitr
+NeedsCompilation: no
+RoxygenNote: 6.1.1
+Suggests: knitr,testthat,rmarkdown
